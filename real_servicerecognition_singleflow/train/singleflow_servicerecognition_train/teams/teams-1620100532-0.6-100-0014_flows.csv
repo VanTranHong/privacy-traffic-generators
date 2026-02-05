@@ -1,0 +1,2 @@
+Src IP,Dst IP,Src Port,Dst Port,Protocol,Start Time,End Time,Total Packets,Total Bytes,Fwd Packets,Bwd Packets,Fwd Bytes,Bwd Bytes,Packet Sizes,Interarrival Times,Last Packet Time,MAC Src,MAC Dst,Flow Duration,Avg Packet Size,Std Packet Size,Flow IAT Mean,Flow IAT Std,Flow IAT Max,Flow IAT Min,Packet Rate,Byte Rate
+52.114.157.3,192.168.1.193,3478,50024,17,1620100587.752426,1620100587.752426,2,368,0,2,0,368,"[166, 202]","[0.0, 0.0]",1620100587.752426,d8:58:d7:01:0e:53,a4:bb:6d:00:32:2b,0.000000,184.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0
